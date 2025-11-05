@@ -4,7 +4,7 @@
 This project is a **basic Ethernet frame analyzer** written in Python.  
 It uses a **raw socket** to capture **one Ethernet frame** directly from the network interface card (NIC), then **parses** and **displays** the frame’s header and payload.
 
-This project demonstrates how low-level packet capture works at the **Data Link Layer (Layer 2)** in the OSI model.
+This project demonstrates how low-level frame capture works at the **Data Link Layer (Layer 2)** in the OSI model.
 
 ---
 
